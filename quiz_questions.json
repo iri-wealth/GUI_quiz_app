@@ -1,0 +1,25 @@
+[{
+    "question": "What is the capital of France?",
+    "alternatives": ["Paris", "London", "Madrid"],
+    "correct_answer": 0
+    },
+    {
+    "question": "Who is the current Prime Minister of the United Kingdom?",
+    "alternatives": ["Theresa May", "Boris Johnson", "David Cameron"],
+    "correct_answer": 1
+    },
+    {
+    "question": "What is the name of the largest city in Australia?",
+    "alternatives": ["Sydney", "Melbourne", "Canberra"],
+    "correct_answer": 2},
+  {
+    "question": "What is the name of the longest river in the world?",
+    "alternatives": ["Nile", "Amazon", "Yellow"],
+    "correct_answer": 0
+    },
+    {
+    "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+    "alternatives": ["Harper Lee", "Jason Crouw", "David Brenton"],
+    "correct_answer": 0
+    }
+]
